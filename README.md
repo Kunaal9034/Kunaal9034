@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 VAYU NANDAN TRIPATHI 🚀
+  VAYU NANDAN TRIPATHI 
 </h1>
 
 <h3 align="center">
