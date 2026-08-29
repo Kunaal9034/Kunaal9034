@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 10" width="100%" height="10px">
+  <defs>
+    <filter id="energy-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <linearGradient id="laser-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2E63" stop-opacity="0" />
+      <stop offset="20%" stop-color="#FF2E63" stop-opacity="1" />
+      <stop offset="50%" stop-color="#00F5D4" stop-opacity="1" filter="url(#energy-glow)" />
+      <stop offset="80%" stop-color="#FF2E63" stop-opacity="1" />
+      <stop offset="100%" stop-color="#FF2E63" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .energy-core {
+      animation: shift-laser 3s linear infinite;
+    }
+    @keyframes shift-laser {
+      0% { transform: translateX(-400px); }
+      100% { transform: translateX(1000px); }
+    }
+  </style>
+
+  <!-- Background base line -->
+  <line x1="0" y1="5" x2="1000" y2="5" stroke="#FF2E63" stroke-width="1.5" stroke-opacity="0.25" />
+  
+  <!-- Active glowing laser pulse -->
+  <rect x="0" y="3.5" width="300" height="3" fill="url(#laser-gradient)" class="energy-core" />
+</svg>

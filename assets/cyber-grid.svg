@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%" style="background:#050508; overflow:hidden;">
+  <style>
+    .scanner {
+      animation: scan 4s linear infinite alternate;
+    }
+    @keyframes scan {
+      0% { transform: translateY(0px); opacity: 0.15; }
+      100% { transform: translateY(200px); opacity: 0.4; }
+    }
+    .glitch-item {
+      animation: blink 2s steps(4) infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 0.8; }
+    }
+  </style>
+
+  <!-- Background Grid -->
+  <g stroke="#FF2E63" stroke-width="0.5" opacity="0.15">
+    <!-- Grid -->
+    <path d="M 0,20 H 800 M 0,40 H 800 M 0,60 H 800 M 0,80 H 800 M 0,100 H 800 M 0,120 H 800 M 0,140 H 800 M 0,160 H 800 M 0,180 H 800" />
+    <path d="M 50,0 V 200 M 100,0 V 200 M 150,0 V 200 M 200,0 V 200 M 250,0 V 200 M 300,0 V 200 M 350,0 V 200 M 400,0 V 200 M 450,0 V 200 M 500,0 V 200 M 550,0 V 200 M 600,0 V 200 M 650,0 V 200 M 700,0 V 200 M 750,0 V 200" />
+  </g>
+
+  <!-- Glowing Laser Scan Line -->
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#00F5D4" stroke-width="2.5" class="scanner" style="filter: drop-shadow(0 0 5px #00F5D4);" />
+
+  <!-- Target Crosshair Left -->
+  <g transform="translate(150, 100)" stroke="#FF2E63" fill="none" opacity="0.4">
+    <circle cx="0" cy="0" r="30" stroke-width="1.5" stroke-dasharray="10 6" />
+    <circle cx="0" cy="0" r="15" stroke-width="1" />
+    <line x1="-40" y1="0" x2="40" y2="0" stroke-width="0.75" />
+    <line x1="0" y1="-40" x2="0" y2="40" stroke-width="0.75" />
+  </g>
+
+  <!-- Target Crosshair Right -->
+  <g transform="translate(650, 100)" stroke="#00F5D4" fill="none" opacity="0.4">
+    <circle cx="0" cy="0" r="30" stroke-width="1.5" stroke-dasharray="6 4" />
+    <circle cx="0" cy="0" r="10" stroke-width="1" />
+    <path d="M -20 -20 L -15 -20 V -15 M 20 -20 L 15 -20 V -15 M -20 20 L -15 20 V 15 M 20 20 L 15 20 V 15" stroke-width="1.5" />
+  </g>
+
+  <!-- HUD Telemetry Panel -->
+  <g fill="#FF2E63" font-family="monospace" font-size="8" opacity="0.5" class="glitch-item">
+    <text x="320" y="30">SYS_LOAD: 24.12%</text>
+    <text x="320" y="45">CORE_TEMP: 39°C</text>
+    <text x="320" y="60">AI_SYNC_RATE: 0.9998</text>
+    <text x="320" y="75">STATUS: OPERATIONAL</text>
+
+    <!-- Bar Graph -->
+    <rect x="320" y="90" width="80" height="6" fill="none" stroke="#FF2E63" stroke-width="1" />
+    <rect x="322" y="92" width="55" height="2" fill="#FF2E63" />
+
+    <!-- Matrix Data columns -->
+    <text x="440" y="30">01001001 01001110</text>
+    <text x="440" y="45">01001001 01010100</text>
+    <text x="440" y="60">01010011 01011001</text>
+    <text x="440" y="75">01010011 01010100</text>
+  </g>
+
+  <!-- Corner Tech Borders -->
+  <path d="M 5,20 V 5 H 20 M 795,20 V 5 H 780 M 5,180 V 195 H 20 M 795,180 V 195 H 780" fill="none" stroke="#00F5D4" stroke-width="1.5" opacity="0.5" />
+</svg>
