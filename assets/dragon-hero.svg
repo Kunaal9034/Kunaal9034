@@ -108,7 +108,7 @@
       100% { transform: translateY(25px) rotate(3deg); }
     }
 
-    /* Flapping whiskers & hair */
+    /* Flapping whiskers and hair */
     .flowing-whisker {
       animation: whisker-wave 2s ease-in-out infinite alternate;
       transform-origin: 520px 145px;
@@ -237,7 +237,7 @@
       <circle cx="185" cy="180" r="3" fill="#FFF" />
     </g>
 
-    <!-- ================= SEGMENT 4: REAR BODY & CLAW ================= -->
+    <!-- ================= SEGMENT 4: REAR BODY and CLAW ================= -->
     <g id="seg-body3" class="segment">
       <!-- Cybernetic Arm/Leg Rear -->
       <path d="M220 190 Q 200 230, 230 250" fill="none" stroke="url(#dark-plate)" stroke-width="12" stroke-linecap="round" />
@@ -264,7 +264,7 @@
       <path d="M320 150 L 330 125 L 340 150 Z" fill="url(#cyber-gold)" />
     </g>
 
-    <!-- ================= SEGMENT 2: FRONT BODY & CLAW ================= -->
+    <!-- ================= SEGMENT 2: FRONT BODY and CLAW ================= -->
     <g id="seg-body1" class="segment">
       <!-- Cybernetic Arm/Leg Front -->
       <path d="M370 190 Q 360 240, 390 260" fill="none" stroke="url(#dark-plate)" stroke-width="12" stroke-linecap="round" />
@@ -294,7 +294,7 @@
 
     <!-- ================= SEGMENT 0: DRAGON HEAD ================= -->
     <g id="seg-head" class="segment">
-      <!-- Flowing whiskers back (Red & Gold) -->
+      <!-- Flowing whiskers back (Red and Gold) -->
       <path d="M520 145 Q 460 110, 410 135" fill="none" stroke="url(#cyber-red)" stroke-width="3" stroke-linecap="round" class="flowing-whisker" filter="url(#neon-glow-red)" />
       <path d="M520 150 Q 470 120, 420 142" fill="none" stroke="url(#cyber-gold)" stroke-width="2.5" stroke-linecap="round" class="flowing-whisker" />
 
