@@ -33,29 +33,35 @@ I explore **Artificial Intelligence, Machine Learning, full-stack engineering, S
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 🧠 Skyscope
-**Current project**
+
+**Current Project**
 
 AI-focused product development and experimentation.
 
 `AI/ML` `Product` `Engineering`
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🚑 RapidCare
-**Collaboration / project focus**
+
+**Collaboration / Project**
 
 A project I'm looking to collaborate on and evolve with strong engineering.
 
 `Java` `AI` `Web`
 
 </td>
+
 <td width="33%" valign="top">
 
-### 🌌 Experimental AI Systems
+### 🌌 Experimental AI
+
 **Exploration**
 
 AI agents, automation, intelligent interfaces and emerging technology.
@@ -63,6 +69,7 @@ AI agents, automation, intelligent interfaces and emerging technology.
 `Agents` `Automation` `Future Tech`
 
 </td>
+
 </tr>
 </table>
 
@@ -71,25 +78,29 @@ AI agents, automation, intelligent interfaces and emerging technology.
 ## ⚙️ TECHNOLOGY MATRIX
 
 ### 🤖 AI / ML
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI ML technologies">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark">
 </p>
 
 `Scikit-learn`
 
 ### 💻 DEVELOPMENT
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,html,css&theme=dark" alt="Development technologies">
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,html,css&theme=dark">
 </p>
 
 ### ☁️ DATABASE / CLOUD
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&theme=dark" alt="Database and cloud technologies">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&theme=dark">
 </p>
 
 ### 🛠️ TOOLS
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" alt="Developer tools">
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark">
 </p>
 
 ---
@@ -97,15 +108,21 @@ AI agents, automation, intelligent interfaces and emerging technology.
 ## 📡 GITHUB TELEMETRY
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vayutripathi09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FFB000&icon_color=FF4D4D&text_color=EAEAEA" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vayutripathi09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FFB000&icon_color=FF4D4D&text_color=EAEAEA">
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=vayutripathi09&theme=dark&hide_border=true&background=0D0D0D&ring=FF4D4D&fire=FFB000&currStreakLabel=FFB000" alt="GitHub streak">
+
+<img src="https://streak-stats.demolab.com?user=vayutripathi09&theme=dark&hide_border=true&background=0D0D0D&ring=FF4D4D&fire=FFB000&currStreakLabel=FFB000">
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayutripathi09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=EAEAEA" alt="Top languages">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayutripathi09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=FFB000&text_color=EAEAEA">
+
 </p>
 
 ---
@@ -113,17 +130,19 @@ AI agents, automation, intelligent interfaces and emerging technology.
 ## 🐍 CONTRIBUTION MATRIX
 
 <p align="center">
-<img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-</p>
 
-> The snake image is generated automatically by the GitHub Actions workflow in `.github/workflows/snake.yml`.
+<img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+
+</p>
 
 ---
 
 ## 🏆 TROPHY SYSTEM
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=vayutripathi09&theme=onestar&no-frame=true&margin-w=8&margin-h=8" alt="GitHub trophies">
+
 </p>
 
 ---
@@ -131,27 +150,31 @@ AI agents, automation, intelligent interfaces and emerging technology.
 ## 🌐 CONNECT
 
 <p align="center">
+
 <a href="https://github.com/vayutripathi09">
-<img src="https://img.shields.io/badge/GitHub-vayutripathi09-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-vayutripathi09-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
-&nbsp;
+
 <a href="YOUR_X_URL">
-<img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X">
+<img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white">
 </a>
-&nbsp;
+
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
+
 </p>
 
 <p align="center">
+
 <a href="mailto:vayu.24scse1180366@galgotiasuniversity.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
+
 </p>
 
 ---
@@ -159,7 +182,9 @@ AI agents, automation, intelligent interfaces and emerging technology.
 ## 👁️ VISITOR SIGNAL
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vayutripathi09&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge" alt="Profile views">
+
+<img src="https://komarev.com/ghpvc/?username=vayutripathi09&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge">
+
 </p>
 
 ---
