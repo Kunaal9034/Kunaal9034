@@ -40,7 +40,7 @@
 
 ---
 
-## ⚡ THE BUILDER
+# ⚡ THE BUILDER
 
 > **I build, learn, solve, and experiment with technology.**
 
@@ -287,8 +287,6 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 </p>
 
-> **Note:** Add your actual usernames/profile URLs to enable platform-specific live statistics.
-
 <p align="center">
 <img src="./assets/energy-line.svg" width="100%">
 </p>
@@ -299,9 +297,9 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kunaal9034&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&icon_color=00F5D4&text_color=EAEAEA&count_private=true">
+<img height="180" src="./assets/github-stats.svg" alt="GitHub Stats">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunaal9034&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&text_color=EAEAEA">
+<img height="180" src="./assets/top-langs.svg" alt="Top Languages">
 
 </div>
 
@@ -309,7 +307,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Kunaal9034&theme=dark&hide_border=true&background=050508&ring=FF2E63&fire=FF7F00&currStreakLabel=FFE066&currStreakNum=00F5D4&sideNums=FFE066&sideLabels=EAEAEA&dates=EAEAEA">
+<img src="https://streak-stats.demolab.com?user=Kunaal9034&theme=dark&hide_border=true&background=050508&ring=FF2E63&fire=FF7F00&currStreakLabel=FFE066&currStreakNum=00F5D4&sideNums=FFE066&sideLabels=EAEAEA&dates=EAEAEA" alt="GitHub Streak">
 
 </div>
 
@@ -319,7 +317,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kunaal9034&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8">
+<img src="./assets/github-trophies.svg" alt="GitHub Trophies">
 
 </p>
 
@@ -329,7 +327,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunaal9034&theme=tokyo-night&hide_border=true&area=true">
+<img src="./assets/activity-graph.svg" alt="GitHub Contribution Graph">
 
 </p>
 
@@ -387,23 +385,23 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 ```text
                     KUNAAL
                        │
-        ┌──────────────┼──────────────┐
-        │              │              │
-       AI/ML         SOFTWARE          DSA
-        │              │              │
-   ┌────┼────┐     ┌───┼────┐      Problem
-   │    │    │     │   │    │       Solving
-  ML   DL   NLP   Java Python C
-   │    │    │     │   │
-   └────┼────┘     └───┼────┘
-        │              │
-        └──────┬───────┘
-               │
-          DEVELOPMENT
-               │
-       ┌───────┼────────┐
-       │       │        │
-      SQL    JDBC     Git/GitHub
+         ┌──────────────┼──────────────┐
+         │              │              │
+        AI/ML         SOFTWARE          DSA
+         │              │              │
+    ┌────┼────┐     ┌───┼────┐      Problem
+    │    │    │     │   │    │       Solving
+   ML   DL   NLP   Java Python C
+    │    │    │     │   │
+    └────┼────┘     └───┼────┘
+         │              │
+         └──────┬───────┘
+                │
+           DEVELOPMENT
+                │
+        ┌───────┼────────┐
+        │       │        │
+       SQL    JDBC     Git/GitHub
 ```
 
 </div>
@@ -420,7 +418,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kunaal90/">
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 
@@ -458,7 +456,8 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kunaal9034&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Kunaal9034&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge" alt="Profile Views">
+
 </p>
 
 ---
