@@ -1,264 +1,477 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="./assets/dragon-hero.svg" width="100%" alt="Animated futuristic Chinese cyber dragon flying through a neon space environment">
 
-# 🐉 VAYU NANDAN TRIPATHI
+<img src="./assets/dragon-hero.svg" width="100%" alt="Animated futuristic cyber dragon">
 
-### AI/ML Engineer • Builder • Founder • Full-Stack Developer
+# 🐉 KUNAAL
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=600&color=FF2E63&center=true&vCenter=true&width=850&lines=BUILDING+AI;BUILDING+PRODUCTS;BUILDING+THE+FUTURE" alt="Animated tagline">
+### AI/ML STUDENT • JAVA DEVELOPER • PYTHON DEVELOPER • DSA ENTHUSIAST
 
-<!-- STATUS BAR -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=600&color=FF2E63&center=true&vCenter=true&width=850&lines=AI+%2F+ML+ENGINEERING;JAVA+%7C+PYTHON+DEVELOPMENT;DATA+STRUCTURES+%26+ALGORITHMS;BUILDING+%26+LEARNING;500%2B+DSA+PROBLEMS+SOLVED" alt="Typing Animation">
+
 <p>
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=flat-square&logo=statuspage&logoColor=050508&labelColor=050508" alt="System Online">
-  <img src="https://img.shields.io/badge/ENGINEERING-AI%20%2F%20ML-FF2E63?style=flat-square&logo=tensorflow&logoColor=FFE066&labelColor=050508" alt="AI Engineering">
-  <img src="https://img.shields.io/badge/MODE-BUILD-FFE066?style=flat-square&logo=rocket&logoColor=FF2E63&labelColor=050508" alt="Build Mode">
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=flat-square&logo=statuspage&logoColor=050508&labelColor=050508">
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-FF2E63?style=flat-square&logo=python&logoColor=FFE066&labelColor=050508">
+
+<img src="https://img.shields.io/badge/MODE-LEARNING-FFE066?style=flat-square&logo=bookstack&logoColor=FF2E63&labelColor=050508">
+
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-111111?style=for-the-badge&logo=python&logoColor=FFE066">
-  <img src="https://img.shields.io/badge/FULL%20STACK-111111?style=for-the-badge&logo=react&logoColor=00F5D4">
-  <img src="https://img.shields.io/badge/STARTUPS-111111?style=for-the-badge&logo=rocket&logoColor=FF6B35">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-111111?style=for-the-badge&logo=github&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/EXPERIMENTAL%20TECH-111111?style=for-the-badge&logo=probot&logoColor=FF2E63">
+
+<img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=FFE066">
+
+<img src="https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=FF2E63">
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-111111?style=for-the-badge&logo=tensorflow&logoColor=00F5D4">
+
+<img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=leetcode&logoColor=FFE066">
+
 </p>
 
 </div>
 
 <p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
+<img src="./assets/energy-line.svg" width="100%">
 </p>
+
+---
 
 ## ⚡ THE BUILDER
 
-> **I don't just write code.**  
-> I build systems, products and ideas that shouldn't exist yet.
+> **I build, learn, solve, and experiment with technology.**
 
-I explore **Artificial Intelligence, Machine Learning, full-stack engineering, SaaS, startups, automation, hackathons, open source and experimental technology** — turning ambitious ideas into working software.
+I am a **B.Tech Computer Science & Engineering student specializing in Artificial Intelligence and Machine Learning at Galgotias University**.
+
+My technical interests include **Machine Learning, Deep Learning, NLP, Generative AI, backend development, databases, and Data Structures & Algorithms**.
+
+I enjoy turning concepts into practical projects while continuously improving my problem-solving and software development skills.
 
 <p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
+<img src="./assets/energy-line.svg" width="100%">
 </p>
 
-## 🚀 CURRENTLY BUILDING
+---
+
+# 🎓 EDUCATION
 
 <div align="center">
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
+### 🎓 B.Tech — Computer Science & Engineering (AI/ML)
 
-<td width="33%" valign="top" style="border: 1px solid #FF2E63; background-color: #050508; padding: 15px; border-radius: 8px;">
+**Galgotias University**
 
-### 🧠 Skyscope
-
-**Current Project**
-
-AI-focused product development and experimentation.
+`2024 – 2028` • **CGPA: 7.95 / 10**
 
 <br>
 
-`AI/ML` `Product` `Engineering`
+### 🏫 Class XII — CBSE
 
-</td>
+**St. Mary's Convent Sr. Sec. School**
 
-<td width="33%" valign="top" style="border: 1px solid #00F5D4; background-color: #050508; padding: 15px; border-radius: 8px;">
-
-### 🚑 RapidCare
-
-**Collaboration / Focus**
-
-A project I'm looking to collaborate on and evolve with strong engineering.
+`2022 – 2023` • **82%**
 
 <br>
 
-`Java` `AI` `Web`
+### 🏫 Class X — CBSE
 
-</td>
+**St. Mary's Convent Sr. Sec. School**
 
-<td width="33%" valign="top" style="border: 1px solid #FFE066; background-color: #050508; padding: 15px; border-radius: 8px;">
-
-### 🌌 Experimental AI
-
-**Exploration**
-
-AI agents, automation, intelligent interfaces and emerging technology.
-
-<br>
-
-`Agents` `Automation` `Future Tech`
-
-</td>
-
-</tr>
-</table>
+`2020 – 2021` • **94%**
 
 </div>
 
 <p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
+<img src="./assets/energy-line.svg" width="100%">
 </p>
 
-## ⚙️ TECHNOLOGY MATRIX
+---
+
+# 🧠 CURRENT FOCUS
 
 <div align="center">
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="50%" valign="top" style="border: none; padding: 10px;">
+| Area            | Focus                            |
+| --------------- | -------------------------------- |
+| 🤖 AI / ML      | Machine Learning • Deep Learning |
+| 🧠 NLP          | Natural Language Processing      |
+| ✨ Generative AI | Exploring Generative AI          |
+| 💻 Programming  | Java • Python • C                |
+| 📊 DSA          | Problem Solving & Algorithms     |
+| 🗄️ Databases   | MySQL • SQL • JDBC               |
+| 🌐 Web          | HTML • CSS • JavaScript          |
+| 🛠️ Development | Git • GitHub • Linux             |
+
+</div>
+
+---
+
+# ⚙️ TECHNOLOGY MATRIX
+
+<div align="center">
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top" align="center">
 
 ### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" alt="AI/ML Stack">
-</p>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark">
+
+<br><br>
+
+`Machine Learning`
+`Deep Learning`
+`NLP`
+`Generative AI`
 
 </td>
-<td width="50%" valign="top" style="border: none; padding: 10px;">
 
-### 💻 DEVELOPMENT
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,html,css&theme=dark" alt="Dev Stack">
-</p>
+<td width="50%" valign="top" align="center">
+
+### 💻 PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark">
 
 </td>
+
 </tr>
-<tr style="border: none;">
-<td width="50%" valign="top" style="border: none; padding: 10px;">
 
-### ☁️ DATABASE / CLOUD
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,docker&theme=dark" alt="Database & Cloud Stack">
-</p>
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🌐 WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark">
 
 </td>
-<td width="50%" valign="top" style="border: none; padding: 10px;">
+
+<td width="50%" valign="top" align="center">
+
+### 🗄️ DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark">
+
+<br><br>
+
+`SQL` • `JDBC` • `MySQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
 
 ### 🛠️ TOOLS
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" alt="Tools Stack">
-</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark">
 
 </td>
+
+<td width="50%" valign="top" align="center">
+
+### 📊 DATA
+
+`Pandas` • `Matplotlib` • `CSV`
+
+</td>
+
 </tr>
+
 </table>
 
 </div>
 
 <p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
+<img src="./assets/energy-line.svg" width="100%">
 </p>
 
-## 📡 GITHUB TELEMETRY
+---
+
+# 🚀 PROJECTS
 
 <div align="center">
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vayutripathi09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&icon_color=00F5D4&text_color=EAEAEA" alt="GitHub Stats">
-</td>
-<td width="50%" align="center" style="border: none; padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayutripathi09&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&text_color=EAEAEA" alt="Top Languages">
-</td>
-</tr>
-<tr style="border: none;">
-<td colspan="2" align="center" style="border: none; padding: 10px;">
-  <img src="https://streak-stats.demolab.com?user=vayutripathi09&theme=dark&hide_border=true&background=050508&ring=FF2E63&fire=FF7F00&currStreakLabel=FFE066&currStreakNum=00F5D4&sideNums=FFE066&sideLabels=EAEAEA&dates=EAEAEA" alt="GitHub Streak">
-</td>
-</tr>
-</table>
+## 🏨 HOTEL MANAGEMENT SYSTEM
+
+### `Java` • `MySQL` • `JDBC` • `OOP` • `Git/GitHub`
+
+</div>
+
+A console-based hotel management application designed to manage rooms and reservations.
+
+**Highlights**
+
+* 🏨 Managed **50+ rooms**
+* 📋 Supported **200+ reservations**
+* 🔄 Implemented the complete booking lifecycle
+* 🗄️ Built CRUD operations using **JDBC + MySQL**
+* ✅ Added input validation
+* 🧩 Designed a normalized **4-table database schema**
+* ⚡ Improved query performance through database normalization
+* 🔒 Used `try-with-resources` for SQL exception handling
+
+**Timeline:** `January 2026 – March 2026`
+
+---
+
+<div align="center">
+
+## 📊 STUDENT GRADE TRACKER
+
+### `Python` • `Pandas` • `Matplotlib` • `CSV`
+
+</div>
+
+A Python-based application for student performance analysis and reporting.
+
+**Highlights**
+
+* 📈 Automated GPA calculation
+* 👨‍🎓 Processed data for **30+ students**
+* 📚 Supported **5 subjects**
+* 📊 Generated semester-wise performance charts
+* 🐼 Used Pandas for data processing
+* 📁 Integrated CSV-based data storage
+* 🔎 Added subject-wise performance comparison
+
+**Timeline:** `2024`
+
+<p align="center">
+<img src="./assets/energy-line.svg" width="100%">
+</p>
+
+---
+
+# 🧩 DSA & CODING JOURNEY
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA%20PROBLEMS-SOLVED%20500%2B-FF2E63?style=for-the-badge&logo=leetcode&logoColor=FFE066">
+
+<br><br>
+
+### 500+ Data Structures & Algorithms Problems
+
+</div>
+
+I have solved **500+ DSA problems across multiple coding platforms**, continuously improving algorithmic thinking and problem-solving skills.
+
+### 🎯 Coding Platforms
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+
+<a href="https://codolio.com/">
+<img src="https://img.shields.io/badge/Codolio-111111?style=for-the-badge&logo=code&logoColor=00F5D4">
+</a>
+
+</p>
+
+> **Note:** Add your actual usernames/profile URLs to enable platform-specific live statistics.
+
+<p align="center">
+<img src="./assets/energy-line.svg" width="100%">
+</p>
+
+---
+
+# 📡 GITHUB TELEMETRY
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&icon_color=00F5D4&text_color=EAEAEA&count_private=true">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&text_color=EAEAEA">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=050508&ring=FF2E63&fire=FF7F00&currStreakLabel=FFE066&currStreakNum=00F5D4&sideNums=FFE066&sideLabels=EAEAEA&dates=EAEAEA">
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8">
+
+</p>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true">
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="./assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</p>
+
+---
+
+# 🏅 CERTIFICATIONS
+
+<div align="center">
+
+### 🟢 NVIDIA
+
+**Fundamentals of Deep Learning — NVIDIA**
+
+`2026`
+
+<br>
+
+### 🎓 Galgotias University
+
+**Short-Term Training Program**
+
+`2025`
 
 </div>
 
 <p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
+<img src="./assets/energy-line.svg" width="100%">
 </p>
 
-## 🏆 TROPHY SYSTEM
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vayutripathi09&theme=onestar&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies">
-</p>
+# 👥 ACTIVITIES & EXPERIENCE
 
-<p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
-</p>
+* 👨‍💻 Led **backend development and database design** in 2+ group assignments.
+* 🤝 Coordinated deliverables across **4-member teams**.
+* 📚 Completed **5+ courses** covering Python, Machine Learning and Data Structures.
+* 💻 Solved **500+ DSA problems** across multiple coding platforms.
 
-## 🐍 CONTRIBUTION MATRIX
+---
 
-<p align="center">
-  <!-- Note: This asset is generated by the snake.yml Action and committed to assets/ -->
-  <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-</p>
+# 🧠 SKILL PROFILE
 
-<p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
-</p>
+<div align="center">
 
-## 🌐 CONNECT
+```text
+                    KUNAAL
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+       AI/ML         SOFTWARE          DSA
+        │              │              │
+   ┌────┼────┐     ┌───┼────┐      Problem
+   │    │    │     │   │    │       Solving
+  ML   DL   NLP   Java Python C
+   │    │    │     │   │
+   └────┼────┘     └───┼────┘
+        │              │
+        └──────┬───────┘
+               │
+          DEVELOPMENT
+               │
+       ┌───────┼────────┐
+       │       │        │
+      SQL    JDBC     Git/GitHub
+```
 
-<p align="center">
+</div>
 
-<a href="https://github.com/vayutripathi09">
-  <img src="https://img.shields.io/badge/GitHub-vayutripathi09-050508?style=for-the-badge&logo=github&logoColor=white&labelColor=FF2E63">
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-050508?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=FF2E63">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+
 </a>
 
-<a href="YOUR_X_URL">
-  <img src="https://img.shields.io/badge/X-Follow-050508?style=for-the-badge&logo=x&logoColor=white&labelColor=FF2E63">
+<a href="YOUR_LEETCODE_URL">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode">
+
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-050508?style=for-the-badge&logo=vercel&logoColor=00F5D4&labelColor=FF2E63">
+<a href="YOUR_CODECHEF_URL">
+
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef">
+
 </a>
 
-</p>
+<a href="YOUR_CODEFORCES_URL">
 
-<p align="center">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces">
 
-<a href="mailto:vayu.24scse1180366@galgotiasuniversity.ac.in">
-  <img src="https://img.shields.io/badge/Email-Contact-050508?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FF2E63">
 </a>
 
-</p>
+<a href="YOUR_CODOLIO_URL">
 
-<p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
-</p>
+<img src="https://img.shields.io/badge/Codolio-Profile-111111?style=for-the-badge&logo=code">
 
-## 👁️ VISITOR SIGNAL
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vayutripathi09&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge" alt="Visitor Counter">
-</p>
-
-<p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
-</p>
-
-<div align="center">
-
-<!-- FOOTER BANNER -->
-<img src="./assets/dragon-footer.svg" width="100%" alt="Cyber dragon flying into a futuristic space horizon">
-
-### KEEP BUILDING. KEEP EXPLORING. KEEP BREAKING LIMITS.
-
-**⚡ CODE • CREATE • ITERATE • REPEAT**
+</a>
 
 </div>
 
+---
+
+# 👁️ PROFILE VIEWS
+
 <p align="center">
-  <img src="./assets/energy-line.svg" width="100%">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge">
+
 </p>
 
-## 🌌 FINAL TRANSMISSION
+---
 
 <div align="center">
 
-> **“Building the future with AI, code, and creativity.”**
+<img src="./assets/energy-line.svg" width="100%">
+
+### ⚡ CODE • LEARN • BUILD • REPEAT
+
+<img src="./assets/dragon-footer.svg" width="100%" alt="Cyber dragon footer">
+
+### 🚀 Building Skills Today. Engineering Solutions Tomorrow.
 
 </div>
