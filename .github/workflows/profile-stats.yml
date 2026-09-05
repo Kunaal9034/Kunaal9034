@@ -3,12 +3,7 @@ name: Update Profile Stats
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -16,14 +11,12 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v6
 
-      # -----------------------------
-      # GitHub Stats
-      # -----------------------------
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -32,9 +25,6 @@ jobs:
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # -----------------------------
-      # Top Languages
-      # -----------------------------
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -43,9 +33,6 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # -----------------------------
-      # GitHub Trophies
-      # -----------------------------
       - name: Generate GitHub Trophies
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
@@ -53,9 +40,6 @@ jobs:
           path: assets/github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # -----------------------------
-      # Contribution Activity Graph
-      # -----------------------------
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
@@ -64,9 +48,6 @@ jobs:
           output_path: assets/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # -----------------------------
-      # Contribution Snake
-      # -----------------------------
       - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -74,9 +55,6 @@ jobs:
           outputs: |
             assets/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#FF2E63&color_dots=#161b22,#4A0E17,#8B0000,#FF2E63,#FFD700
 
-      # -----------------------------
-      # Commit generated SVG files
-      # -----------------------------
       - name: Commit Generated SVGs
         run: |
           git config user.name "github-actions[bot]"
@@ -84,6 +62,12 @@ jobs:
 
           git add assets/*.svg
 
-          git diff --cached --quiet || git commit -m "chore: update profile stats"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-          git push
+          git commit -m "chore: update profile stats [skip ci]"
+
+          git pull --rebase origin main
+          git push origin HEAD:main
