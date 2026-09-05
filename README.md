@@ -269,19 +269,19 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Kunaal001/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/kunaal_1234">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
 
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/profile/skunaal57">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
 </a>
 
-<a href="https://codolio.com/">
+<a href="https://codolio.com/profile/Kunaal/">
 <img src="https://img.shields.io/badge/Codolio-111111?style=for-the-badge&logo=code&logoColor=00F5D4">
 </a>
 
@@ -299,9 +299,9 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&icon_color=00F5D4&text_color=EAEAEA&count_private=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kunaal9034&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&icon_color=00F5D4&text_color=EAEAEA&count_private=true">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&text_color=EAEAEA">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunaal9034&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=FF2E63&text_color=EAEAEA">
 
 </div>
 
@@ -309,7 +309,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=050508&ring=FF2E63&fire=FF7F00&currStreakLabel=FFE066&currStreakNum=00F5D4&sideNums=FFE066&sideLabels=EAEAEA&dates=EAEAEA">
+<img src="https://streak-stats.demolab.com?user=Kunaal9034&theme=dark&hide_border=true&background=050508&ring=FF2E63&fire=FF7F00&currStreakLabel=FFE066&currStreakNum=00F5D4&sideNums=FFE066&sideLabels=EAEAEA&dates=EAEAEA">
 
 </div>
 
@@ -319,7 +319,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8">
+<img src="https://github-profile-trophy.vercel.app/?username=Kunaal9034&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8">
 
 </p>
 
@@ -329,7 +329,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunaal9034&theme=tokyo-night&hide_border=true&area=true">
 
 </p>
 
@@ -414,7 +414,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Kunaal9034">
 
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
 
@@ -426,25 +426,25 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/Kunaal001/">
 
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode">
 
 </a>
 
-<a href="YOUR_CODECHEF_URL">
+<a href="https://www.codechef.com/users/kunaal_1234">
 
 <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef">
 
 </a>
 
-<a href="YOUR_CODEFORCES_URL">
+<a href="https://codeforces.com/profile/skunaal57">
 
 <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces">
 
 </a>
 
-<a href="YOUR_CODOLIO_URL">
+<a href="https://codolio.com/profile/Kunaal">
 
 <img src="https://img.shields.io/badge/Codolio-Profile-111111?style=for-the-badge&logo=code">
 
@@ -458,8 +458,7 @@ I have solved **500+ DSA problems across multiple coding platforms**, continuous
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge">
-
+<img src="https://komarev.com/ghpvc/?username=Kunaal9034&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge">
 </p>
 
 ---
