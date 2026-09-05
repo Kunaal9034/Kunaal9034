@@ -1,19 +1,15 @@
 name: generate animation
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *"
 
-  # Allow manual trigger
   workflow_dispatch:
 
-  # Run when code is pushed to main
   push:
     branches:
       - main
 
-# Give GitHub Actions permission to write files to the repository
 permissions:
   contents: write
 
